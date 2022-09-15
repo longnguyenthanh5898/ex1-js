@@ -9,9 +9,9 @@
 
 
 
-        
+
         //-----------------c2------------------------------:
-            function FirstValue(arr){
+            function getFirstValue(arr){
                 return arr[0];
             }
         //-----------------c2------------------------------:
